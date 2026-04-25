@@ -2,7 +2,7 @@
   "name": "SOC Baula",
   "short_name": "SOC",
   "description": "Sistema Operativo del Chalet — captura, estructura, decisión",
-  "start_url": "./SOC-LVL54-15.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
