@@ -1,7 +1,7 @@
 {
-  "name": "SOC Baula",
-  "short_name": "SOC",
-  "description": "Sistema Operativo del Chalet — captura, estructura, decisión",
+  "name": "Laud OS",
+  "short_name": "Laud",
+  "description": "Sistema Operativo de  — captura, estructura, decisión",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
