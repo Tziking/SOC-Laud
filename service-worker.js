@@ -2,11 +2,11 @@
 // Estrategia: Cache-first con network fallback
 // Propósito: app funciona offline, actualiza cuando hay señal
 
-const CACHE_NAME = 'soc-baula-v1';
+const CACHE_NAME = 'Laud-OS-V1';
 
 const ASSETS_TO_CACHE = [
   './',
-  './SOC-LVL54-15.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
